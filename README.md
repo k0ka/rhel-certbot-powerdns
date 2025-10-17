@@ -8,3 +8,8 @@ $ docker run -d \
   ghcr.io/k0ka/rhel-certbot \
   renew
 ```
+
+
+## See also
+
+https://github.com/kaechele/certbot-dns-pdns - configuration for PowerDNS plugin
